@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raknar4000&label=Profile%20views&color=0e75b6&style=flat" alt="raknar4000" /> </p>
 
-- 🌱 I’m currently learning **Modern PHP web development w/mySql, Bootstrap and Javascript**
+- 🌱 I’m currently learning **Modern PHP web development w/mySql, Javascript & Svelte**
 
 - 📫 How to reach me **ragnarlall@gmail.com**
 
