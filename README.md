@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ragnar Lall</h1>
+<h1 align="center">Hi 👋, I'm Ragnar</h1>
 <h3 align="center">Learning developer</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fda%2Fc5%2F5f%2Fdac55fd0c0dd5cbe7a836d6274e681e8.gif&f=1&nofb=1">
 
